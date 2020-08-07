@@ -1,0 +1,30 @@
+== Solving the WFH ISSUE
+
+== Remote Work
+Most people aren't used to working from home and it's a technology problem. 
+
+[.columns]
+== Problems with Remote Work
+[.column]
+* Collaboration on Design
+* Imposter Syndrome for new devs
+* Time Management
+
+[.columns]
+* Presentations
+* Communication Culture
+* Stand Up Meetings
+* Fatigue / Frustration
+
+
+
+== When it's bad...
+It's like a cascade failure...
+
+* Designs break dowm, 
+* development breaks down, 
+* marketing isn't as effective, etc...
+
+image::https://upload.wikimedia.org/wikipedia/commons/b/bd/Networkfailure.gif[]
+
+Designs break dowm, development breaks down, marketing isn't as effective, etc...

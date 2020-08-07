@@ -1,4 +1,4 @@
-== Solving the WFH ISSUE
+== Solving WFH ISSUES
 
 == Remote Work
 Most people aren't used to working from home and it's a technology problem. 
@@ -6,6 +6,7 @@ Most people aren't used to working from home and it's a technology problem.
 [.columns]
 == Problems with Remote Work
 [.column]
+* SDLC
 * Collaboration on Design
 * Imposter Syndrome for new devs
 * Time Management

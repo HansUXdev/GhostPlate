@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="651px" height="1054px" viewBox="-0.5 -0.5 651 1054" content="&lt;mxfile host=&quot;7438b2bd-ea29-4b6a-a4fd-e2b052d5c244&quot; modified=&quot;2020-08-07T19:17:15.333Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;1iQqm3Npb0MRmRqMzscK&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 303.5 782 L 338.5 817 L 303.5 852 L 303.5 839 C 292.73 839 284 847.73 284 858.5 C 284 869.27 292.73 878 303.5 878 L 470 878 L 470 922 L 303.5 922 C 268.43 922 240 893.57 240 858.5 C 240 823.43 268.43 795 303.5 795 Z" fill="#12aab5" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" transform="rotate(180,355,852)" pointer-events="all"/>
+        <path d="M 233.5 703 L 268.5 738 L 233.5 773 L 233.5 760 C 222.73 760 214 768.73 214 779.5 C 214 790.27 222.73 799 233.5 799 L 400 799 L 400 843 L 233.5 843 C 198.43 843 170 814.57 170 779.5 C 170 744.43 198.43 716 233.5 716 Z" fill="#23445d" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" transform="translate(0,773)scale(1,-1)translate(0,-773)" pointer-events="all"/>
+        <path d="M 303.5 624 L 338.5 659 L 303.5 694 L 303.5 681 C 292.73 681 284 689.73 284 700.5 C 284 711.27 292.73 720 303.5 720 L 470 720 L 470 764 L 303.5 764 C 268.43 764 240 735.57 240 700.5 C 240 665.43 268.43 637 303.5 637 Z" fill="#ae4132" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" transform="rotate(180,355,694)" pointer-events="all"/>
+        <path d="M 233.5 545 L 268.5 580 L 233.5 615 L 233.5 602 C 222.73 602 214 610.73 214 621.5 C 214 632.27 222.73 641 233.5 641 L 400 641 L 400 685 L 233.5 685 C 198.43 685 170 656.57 170 621.5 C 170 586.43 198.43 558 233.5 558 Z" fill="#f2931e" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" transform="translate(0,615)scale(1,-1)translate(0,-615)" pointer-events="all"/>
+        <path d="M 233.5 466 L 268.5 501 L 233.5 536 L 233.5 523 C 222.73 523 214 531.73 214 542.5 C 214 553.27 222.73 562 233.5 562 L 470 562 L 470 606 L 233.5 606 C 198.43 606 170 577.57 170 542.5 C 170 507.43 198.43 479 233.5 479 Z" fill="#10739e" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" transform="rotate(180,320,536)" pointer-events="all"/>
+        <rect x="179" y="469" width="210" height="37" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 203px; height: 1px; padding-top: 488px; margin-left: 186px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 7px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <b>
+                                    VS Code Extentions 
+                                </b>
+                                <br style="font-size: 7px"/>
+                                Helps increase developer productivity by improving communication and design input, while avoiding zoom fatigue and burnout.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="186" y="490" fill="#FFFFFF" font-family="Helvetica" font-size="7px">
+                    VS Code Extentions...
+                </text>
+            </switch>
+        </g>
+        <rect x="205" y="543" width="170" height="46" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 163px; height: 1px; padding-top: 566px; margin-left: 212px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 7px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <b style="font-size: 7px">
+                                     Test DRIVEN Development
+                                </b>
+                                <br style="font-size: 7px"/>
+                                Let's be honest. Our code base is never test driven.  Putting it off until production only increases stress, burnout and miscommunication.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="212" y="568" fill="#FFFFFF" font-family="Helvetica" font-size="7px">
+                    Test DRIVEN Development...
+                </text>
+            </switch>
+        </g>
+        <rect x="265" y="616" width="177" height="57" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 170px; height: 1px; padding-top: 645px; margin-left: 272px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 7px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <b style="font-size: 7px">
+                                                                 Design-Develop
+                                </b>
+                                <br style="font-size: 7px"/>
+                                If designers who use component-driven design,
+                                <br/>
+                                can go from prototypes to production much faster because developers can focus more time on business logic and backend logic rather than design decisions.
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="272" y="647" fill="#FFFFFF" font-family="Helvetica" font-size="7px">
+                    Design-Develop...
+                </text>
+            </switch>
+        </g>
+        <rect x="205" y="704" width="172" height="41" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 165px; height: 1px; padding-top: 725px; margin-left: 212px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 7px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <b style="font-size: 7px">
+                                                    Test Driven Development
+                                </b>
+                                <br style="font-size: 7px"/>
+                                <font style="font-size: 6px">
+                                    If our SDLC is Truely TDD, the tests should start in the requirement phase and finalized in the testing phase. More over, we need to automate: User tests, responsive test, etc.
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="212" y="727" fill="#FFFFFF" font-family="Helvetica" font-size="7px">
+                    Test Driven Development...
+                </text>
+            </switch>
+        </g>
+        <rect x="265" y="774" width="185" height="58" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 803px; margin-left: 272px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 7px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <b style="font-size: 7px">
+                                    Development-Production
+                                </b>
+                                <br style="font-size: 7px"/>
+                                If developers got in the habit of working in a simple but portable developement environment like docker or gitpod the chances of production-level bugs is reduced.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="272" y="805" fill="#FFFFFF" font-family="Helvetica" font-size="7px">
+                    Development-Production...
+                </text>
+            </switch>
+        </g>
+        <path d="M 130 213 C 130 234.44 118.56 254.24 100 264.96 C 81.44 275.68 58.56 275.68 40 264.96 C 21.44 254.24 10 234.44 10 213 L 25 213 C 25 229.08 33.58 243.93 47.5 251.97 C 61.42 260.01 78.58 260.01 92.5 251.97 C 106.42 243.93 115 229.08 115 213 Z" fill="#10739e" stroke="none" pointer-events="all"/>
+        <path d="M 115 213 C 115 179.86 141.86 153 175 153 C 208.14 153 235 179.86 235 213 L 220 213 C 220 188.15 199.85 168 175 168 C 150.15 168 130 188.15 130 213 Z" fill="#f2931e" stroke="none" pointer-events="all"/>
+        <path d="M 340 213 C 340 234.44 328.56 254.24 310 264.96 C 291.44 275.68 268.56 275.68 250 264.96 C 231.44 254.24 220 234.44 220 213 L 235 213 C 235 229.08 243.58 243.93 257.5 251.97 C 271.42 260.01 288.58 260.01 302.5 251.97 C 316.42 243.93 325 229.08 325 213 Z" fill="#ae4132" stroke="none" pointer-events="all"/>
+        <path d="M 325 213 C 325 179.86 351.86 153 385 153 C 418.14 153 445 179.86 445 213 L 430 213 C 430 188.15 409.85 168 385 168 C 360.15 168 340 188.15 340 213 Z" fill="#23445d" stroke="none" pointer-events="all"/>
+        <path d="M 550 213 C 550 234.44 538.56 254.24 520 264.96 C 501.44 275.68 478.56 275.68 460 264.96 C 441.44 254.24 430 234.44 430 213 L 445 213 C 445 229.08 453.58 243.93 467.5 251.97 C 481.42 260.01 498.58 260.01 512.5 251.97 C 526.42 243.93 535 229.08 535 213 Z" fill="#15aa96" stroke="none" pointer-events="all"/>
+        <ellipse cx="70" cy="213" rx="25" ry="25" fill="#ffffff" stroke="#10739e" stroke-width="6" pointer-events="all"/>
+        <g fill="#10739E" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="15px">
+            <text x="69.5" y="219">
+                1
+            </text>
+        </g>
+        <ellipse cx="175" cy="213" rx="25" ry="25" fill="#ffffff" stroke="#f2931e" stroke-width="6" pointer-events="all"/>
+        <g fill="#F2931E" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="15px">
+            <text x="174.5" y="219">
+                2
+            </text>
+        </g>
+        <ellipse cx="280" cy="213" rx="25" ry="25" fill="#ffffff" stroke="#ae4132" stroke-width="6" pointer-events="all"/>
+        <g fill="#AE4132" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="15px">
+            <text x="279.5" y="219">
+                3
+            </text>
+        </g>
+        <ellipse cx="385" cy="213" rx="25" ry="25" fill="#ffffff" stroke="#23445d" stroke-width="6" pointer-events="all"/>
+        <g fill="#23445D" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="15px">
+            <text x="384.5" y="219">
+                4
+            </text>
+        </g>
+        <ellipse cx="490" cy="213" rx="25" ry="25" fill="#ffffff" stroke="#12aab5" stroke-width="6" pointer-events="all"/>
+        <g fill="#12AAB5" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="15px">
+            <text x="489.5" y="219">
+                5
+            </text>
+        </g>
+        <path d="M 150.5 368 L 150.5 358 L 180 358 L 180 359.5 L 180.5 359.5 L 180.5 349 L 199.5 364.5 L 180.5 380 L 180.5 369.5 L 170 369.5 L 170 368 Z" fill="none" stroke="#000000" stroke-miterlimit="1.42" pointer-events="all"/>
+        <path d="M 180.5 359.5 L 180.5 349 L 199.5 364.5 L 180.5 380 L 180.5 369.5" fill="none" stroke="#000000" stroke-miterlimit="4" pointer-events="all"/>
+        <rect x="0" y="291.5" width="150" height="143" rx="17.16" ry="17.16" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 299px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font>
+                                    <font style="font-size: 12px" color="#10739E">
+                                        <b>
+                                            Ideation &amp; Design
+                                        </b>
+                                    </font>
+                                    <br/>
+                                    <br/>
+                                    <font color="#10739e">
+                                        How often do designers do their thing, ship it off to developers, only to have a last minute requirement to be added? 
+                                    </font>
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="75" y="311" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Ideation &amp; Design...
+                </text>
+            </switch>
+        </g>
+        <path d="M 250.5 94.5 L 250.5 84.5 L 270.5 84.5 L 270.5 74 L 289.5 89.5 L 270.5 105 L 270.5 94.5 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="36" width="240" height="107" rx="12.84" ry="12.84" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 43px; margin-left: 11px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 10px">
+                                    <font style="font-size: 12px" color="#F2931E">
+                                        <b>
+                                            Requirements
+                                        </b>
+                                    </font>
+                                    <br/>
+                                    <br/>
+                                    <font style="font-size: 12px" color="#10739E">
+                                        How often do you start the development phase by translating 
+                                        <b>
+                                            requirements into tests
+                                        </b>
+                                        ?
+                                    </font>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="130" y="55" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Requirements...
+                </text>
+            </switch>
+        </g>
+        <path d="M 490.12 94.5 L 489.88 84.5 L 499.88 84.25 L 499.63 74.25 L 530 88.5 L 500.38 104.25 L 500.13 94.25 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="290" y="36" width="200" height="107" rx="12.84" ry="12.84" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 43px; margin-left: 291px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font>
+                                    <b style="color: rgb(35 , 68 , 93)">
+                                        Testing &amp; Automation
+                                    </b>
+                                    <br/>
+                                    <br/>
+                                    <font color="#10739e">
+                                        Let's be honest. Our code base is never test driven.  Putting it off until production only increases 
+                                        <b>
+                                            stress
+                                        </b>
+                                        , 
+                                        <b>
+                                            burnout
+                                        </b>
+                                         and 
+                                        <b>
+                                            miscommunication
+                                        </b>
+                                        .
+                                    </font>
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="390" y="55" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Testing &amp; Automation...
+                </text>
+            </switch>
+        </g>
+        <path d="M 350.5 369.5 L 350.5 359.5 L 410.5 359.5 L 410.5 349 L 429.5 364.5 L 410.5 380 L 410.5 369.5 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="200" y="283" width="150" height="163" rx="18" ry="18" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 290px; margin-left: 201px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 10px">
+                                    <font style="font-size: 12px" color="#AE4132">
+                                        <b>
+                                            Development
+                                        </b>
+                                    </font>
+                                    <br/>
+                                    <br/>
+                                    <font style="font-size: 12px" color="#10739E">
+                                        The handoff between designers and developers needs to be more smoth.
+                                        <br/>
+                                        Low-Fidelity Prototypes need user validation before they are passed off to developers in order to avoid last minuete requirements
+                                        <br/>
+                                    </font>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="275" y="302" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Development...
+                </text>
+            </switch>
+        </g>
+        <path d="M 574.85 295.73 L 565.15 293.27 L 577.75 243.84 L 568.06 241.37 L 590 216 L 597.13 248.77 L 587.44 246.31 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="430" y="294.5" width="140" height="140" rx="16.8" ry="16.8" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 302px; margin-left: 431px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 10px">
+                                    <font style="font-size: 12px" color="#AE4132">
+                                        <b>
+                                            Production
+                                        </b>
+                                    </font>
+                                    <br/>
+                                    <br/>
+                                    <font style="font-size: 12px" color="#10739E">
+                                        Ever have something work in development and not in production?
+                                        <br/>
+                                        <br/>
+                                        Are you even trying to solve that issue?
+                                        <br/>
+                                    </font>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="500" y="314" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Production...
+                </text>
+            </switch>
+        </g>
+        <rect x="530" y="46" width="120" height="170" rx="14.4" ry="14.4" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 53px; margin-left: 531px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font>
+                                    <font style="font-size: 12px" color="#23445D">
+                                        <b>
+                                            Maintence 
+                                        </b>
+                                    </font>
+                                    <br/>
+                                    <font color="#10739e">
+                                        <br/>
+                                        There is no way around this however we should thrive to keep our backlog as close to empty as possible
+                                    </font>
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="590" y="65" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Maintence...
+                </text>
+            </switch>
+        </g>
+        <path d="M 194.7 857.7 L 358.1 855.6 C 355.44 920.8 361.85 986.02 377.1 1048.8 L 206.1 1050.9 C 193.41 987.65 189.56 922.44 194.7 857.7 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 242.2 843 L 301.1 843 L 303 868.2 L 242.2 870.3 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 948px; margin-left: 190px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                How our 
+                                <br/>
+                                <b>
+                                    development environment
+                                </b>
+                                <br/>
+                                help 
+                                <br/>
+                                streamline this
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="284" y="953" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    How our...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

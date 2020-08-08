@@ -48,3 +48,7 @@ Visual Studio Code, Node.js, React, Ionic, Docker, GitPod
 
 ## How to use it (Including set up instructions/requirements, local development)
 Hans will publish an extensive tutorial on this subject and include it in the development.
+
+
+## Resources:
+1 [GitPod](https://www.gitpod.io/blog/gitpodify/)

@@ -22,6 +22,14 @@ The goal of this project is to provide a portable development envirenment that i
 ### Amy: ? 
 
 
+## Problem(s):
+
+[![Software Development Life Cycle](CollaborationTemplates/SDLC.drawio.svg)]()
+
+## Potential Solutions
+[![Software Development Life Cycle](CollaborationTemplates/Overview.drawio.svg)]()
+
+
 ## How it works
 Currently exploring the following options:
 1. Automate the Boring Stuff with a docker container built around puppeteer.

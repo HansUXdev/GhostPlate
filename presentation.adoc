@@ -1,7 +1,7 @@
 == Solving WFH ISSUES
 
 == Remote Work
-Most people aren't used to working from home and it's a technology problem. 
+Working from home, is more of a social & organizational issue, than it is a echnology problem.
 
 [.columns]
 == Problems with Remote Work

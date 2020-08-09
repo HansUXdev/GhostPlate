@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "git": "git add -A && git commit -m \"Yes I really am this lazy...\" && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.2.2",
+    "node-cron": "^2.0.3",
     "puppeteer": "^5.2.1"
   }
 }

@@ -49,10 +49,11 @@ const randomNumber = (maxNumber) => Math.floor( (Math.random() * maxNumber ) );
  * Find a random article
  * @param {Array} articles - returns array of objects
  */
-const selectRandomTweet = (articles) => {
-  let   number = Math.floor( (Math.random() * 7 ) );
-  let   randomArticle = articles[number];
-  let   {description,url,categories} = randomArticle;
+const selectRandomTweet = (tweet) => {
+  // console.log("TWEET: \n", tweet, " \n")
+  let   number = Math.floor( (Math.random() * tweet.length ) );
+  let   randomArticle = tweet[number];
+  let   {description,url,categories} = tweet[number];
   let   randomTweet =  description + url +' '+ categories;
   if(randomTweet.length > 280){
     console.log(`description is ${description.length} characters long...`);

@@ -3,7 +3,7 @@
  * @param {Object} page - the page object from puppeteer
  * @param {Object} content - The tweet to post
  */
-let {delay} = require('./settings');
+let {delay} = require('../settings');
 
 module.exports = async function postTweet(page,content) {
   try {
@@ -21,7 +21,9 @@ module.exports = async function postTweet(page,content) {
     // TYPE TWEET
     console.log("Typing the tweet...")
     await page.click(_textField);
+    
     await delay(500);
+    
     await page.type(_textField, content);
     await delay(500);
     await page.click(_textField);

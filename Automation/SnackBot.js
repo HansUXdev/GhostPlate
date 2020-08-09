@@ -13,24 +13,26 @@ const puppeteer = require('puppeteer');
 let {settings, 
   autoScroll,
   delay,
-  selectRandomArticle,
+  selectRandomTweet,
 } = require('./settings');
 
 
 
 // Content
 let snacks = require('./Marketing/snacks');
-let ghost = require('./Marketing/ghost');
 let postTweet = require('./util/postTweet');
 
 // let TwitterLogin = require('./util/TwitterLogin');
 
 
-cron.schedule('*/1 * * * *', async () => {
+// (async function () {
+// })();
+
+cron.schedule('*/10 * * * *', async () => {
 
   const browser = await puppeteer.launch(settings);
 
-  let content = selectRandomArticle(snacks);
+  let content = selectRandomTweet(snacks);
   console.log('logging content', content)
 
 

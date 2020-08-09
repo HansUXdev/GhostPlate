@@ -1,7 +1,7 @@
 tasks:
   - init: echo "Replace me with a build script for the project."
     # Specifiy where mongo data is stored
-    command: mkdir -p /workspace/data && mongod --dbpath /workspace/data --fork --logpath /workspace/logs/mongod.log
+    command: mkdir -p /workspace/data && mongod --dbpath /workspace/data
 image:
   file: .gitpod.Dockerfile
 

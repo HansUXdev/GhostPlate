@@ -1,0 +1,21 @@
+{
+  "name": "RemoteDevCatz",
+  "version": "1.0.0",
+  "description": "A modern **development environment** for designers and developers to collaborate remotely by streamlining the software development life cycle.",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add -A && git commit -m \"Well I'm working SOLO.. So YOLO? and I really am this lazy...\" && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansUXdev/RemoteDevCatz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansUXdev/RemoteDevCatz/issues"
+  },
+  "homepage": "https://github.com/HansUXdev/RemoteDevCatz#readme"
+}

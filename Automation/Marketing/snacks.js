@@ -1,5 +1,3 @@
-
-
 /**
  * @description: Array of Objects
  * Each object has a description & url

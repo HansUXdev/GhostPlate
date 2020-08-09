@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "git": "git add -A && git commit -m \"Yes I really am this lazy...\" && git push",
+    "twitter":"nodemon ./Automation/SnackBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

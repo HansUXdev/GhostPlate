@@ -25,10 +25,7 @@ let postTweet = require('./util/postTweet');
 // let TwitterLogin = require('./util/TwitterLogin');
 
 
-// (async function () {
-// })();
-
-cron.schedule('*/10 * * * *', async () => {
+cron.schedule('*/5 * * * *', async () => {
 
   const browser = await puppeteer.launch(settings);
 
@@ -36,7 +33,7 @@ cron.schedule('*/10 * * * *', async () => {
   console.log('logging content', content)
 
 
-  await browser.newPage(content)
+  await browser.newPage()
   .then( async page => {
     await page.goto('https://twitter.com/login');
     await delay(1000);

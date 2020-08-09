@@ -1,6 +1,6 @@
 let settings = {
   timeout: 0, 
-  headless: false, 
+  headless: false, // set this to false to make life fun :-p
   devtools: false,
   
   // Open with User's own Chrome Browser to appear more human

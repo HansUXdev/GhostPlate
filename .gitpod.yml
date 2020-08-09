@@ -1,7 +1,8 @@
 # Default Image
-image:  gitpod/workspace-full
+# image:  gitpod/workspace-full
 
-# image:
+# Custom 
+image:
   file: .gitpod.dockerfile
 
 vscode:

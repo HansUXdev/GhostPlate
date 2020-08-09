@@ -1,5 +1,16 @@
-# The Docker image to run your workspace in. Defaults to gitpod/workspace-full
-image: <your-workspace-image>
+# Default Image
+image:  gitpod/workspace-full
+
+# image:
+  file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - abusaidm.html-snippets@0.2.1:7b7Vkkp6Lem9WOqKCYMq2w==
+    - Zignd.html-css-class-completion@1.19.0:b3YWQQIEP1z3u93nyLX0UA==
+
+
+
 # Command to start on workspace startup (optional)
 tasks:
   - init: yarn install
@@ -8,3 +19,19 @@ tasks:
 ports:
   - port: 8000
     onOpen: open-preview
+
+github:
+  prebuilds:
+    # enable for the master/default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: true
+    pullRequestsFromForks: true
+    # enable for pull requests coming from this repo (defaults to true)
+    pullRequests: true
+    # add a check to pull requests (defaults to true)
+    addCheck: true
+    # add a "Review in Gitpod" button as a comment to pull requests (defaults to false)
+    addComment: true
+
+

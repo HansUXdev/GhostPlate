@@ -3,35 +3,49 @@ theme : "night"
 transition: "slide"
 highlightTheme: "monokai"
 logoImg: "logo.png"
-slideNumber: false
-title: "Virtual Learning Solutions"
+slideNumber: true
+title: "GhostPlate Colaborative Coding"
+---
+
+---
+# What is GhostPlate?
+A modern **development environment** for designers and developers stay connected and collaborate remotely by streamlining the software development life cycle.
+
+[![Open in Gitpod](http://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/gitpod-io/gitpod-status)
+
+---
+
+# Features
+1. "Frameworkless"
+2. Simple docker-based configuration
+3. Lightweight
+4. Build a Car with spare parts
+5. Build just about anything
+5. 
+
 ---
 
 
-::: block
-There be Ghosts 👻  {style=font-size:3em;width:500px}
-::: 
----
+# Tools Available
+1. Gatsby
+2. 
 
-// @[OSS-Books](etVpwB7uHlw)
 
 ---
-
 ### TO DO
 
 - [ ] Film 3 Minuete Video
 - [ ] Problem
 - [ ] Solution(s)
-- [ ] Mars
-- [ ] Jupiter
+- [ ] Build a Car with spare parts
+- [ ] Automate the dumb stuff
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
 
 ---
-# RemoteDevCatz
-A modern **development environment** for designers and developers to collaborate remotely by streamlining the software development life cycle.
+
 
 ## Tips for Success
 1. Use Your Resources

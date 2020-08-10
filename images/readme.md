@@ -1,0 +1,1 @@
+A directory for storing all your images

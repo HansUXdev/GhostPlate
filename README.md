@@ -7,31 +7,51 @@ slideNumber: true
 title: "GhostPlate Colaborative Coding"
 ---
 
+
 ---
+
 # What is GhostPlate?
-A modern **development environment** for designers and developers stay connected and collaborate remotely by streamlining the software development life cycle.
+[![image showing nvm is installed](./911.png)]()
+
+A modern **remote centric** development environment for designers and developers stay connected and collaborate remotely by streamlining the software development life cycle.
 
 [![Open in Gitpod](http://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/gitpod-io/gitpod-status)
 
 ---
 
+[![image showing nvm is installed](./911.png)]()
+
+
 # Features
-1. "Frameworkless"
-2. Simple docker-based configuration
-3. Lightweight
-4. Build a Car with spare parts
+
+1. Lightweight & "Frameworkless"
+2. Build just about anything (web, server, mobile app and hardware)
+3. Build a Car with spare parts
+4. "Frameworkless"
 5. Build just about anything
-5. 
+6. Built in Design Templates for collaboration
 
 ---
 
 
-# Tools Available
-1. Gatsby
-2. 
+
+---
+# Lightweight & "Frameworkless"
+
+[![image showing nvm is installed](./nocode.png)]()
+
+---
+
+# Build just about anything 
+### (web, server, mobile app & hardware)
+Tools Available
+1. Gatsby & Next 
+2. [Ionic](https://github.com/hpssjellis/ionic-webcam-help)
+3. J5 - HardWare
 
 
 ---
+
 ### TO DO
 
 - [ ] Film 3 Minuete Video
@@ -46,28 +66,54 @@ A modern **development environment** for designers and developers stay connected
 
 ---
 
+## Film 3 Minuete Video
 
-## Tips for Success
-1. Use Your Resources
-2. Don't over optimize
-3. Focus on the MVP
-4. Make a Great Pitch
+---
+
+## Problem
+
+---
+
+## Solution(s)
+
+---
+
+## Build a Car with spare parts
+
+---
 
 
-## About
-The goal of this project is to provide a portable development environment that improves communication and remote collaboration while streamlining the Software Development Life Cycle (SDLC).
 
-## Team Members
+---
 
-### Hans: Honey Badger, GEER
-### 👻
-### 👻
+# Team Members
 
+---
+
+### "Hans McMurdy": Honey Badger, GEER
+
+---
+
+### 👻Bot  
+To automate the dumb stuff in the simplist way possible
+
+---
+
+# About Project
+A modern **development environment** for designers and developers stay connected and collaborate remotely by streamlining the software development life cycle.
+
+[![Open in Gitpod](http://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/gitpod-io/gitpod-status)
+
+
+
+---
 
 ## Problem(s):
 1. 
 
 <!-- [![Software Development Life Cycle](CollaborationTemplates/SDLC.drawio.svg)]() -->
+
+---
 
 ## Potential Solutions
 <!-- [![Software Development Life Cycle](CollaborationTemplates/Overview.drawio.svg)]() -->
@@ -75,6 +121,7 @@ The goal of this project is to provide a portable development environment that i
 1. The simplest way to help connect others
 isn't nessissarly to build an new app that you have to login to. The simplest way to look around at whats wrong
 
+---
 ## How it works
 Currently exploring the following options:
 1. A simple collection of [VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=HansBashesMS.covid-working) centered around productivity aka a json file published the absolutely most horribly documented sales pitch for Azure.
@@ -82,19 +129,22 @@ Currently exploring the following options:
 2. Create Custom VS Code Extensions to improve github workflow with a SMART TODO List
 3. Create a boilerplate GitPod wrapper companies can use to provide a universal development environment built on OSS like gitter, etc.
 
-### Requirements to run
-1. Just needs docker :-)
-2. Just needs VS Code
-3. GitPod just needs a browser :-) 
+---
 
+--- 
+### Requirements to run
+1.  Just needs a browser :-) 
+
+--- 
 
 ## Tech stack used (i.e Node, React, Auth0, Jest, etc)
 Visual Studio Code, Node.js, React, Ionic, Docker, GitPod
 
+---
 
 ## How to use it (Including set up instructions/requirements, local development)
 Hans will publish an extensive tutorial on this subject and include it in the development.
 
-
+----
 ## Resources:
 1 [GitPod](https://www.gitpod.io/blog/gitpodify/)

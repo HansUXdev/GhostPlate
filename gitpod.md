@@ -9,8 +9,7 @@ To get MongoDB for your project, you can use our dedicated MongoDB image built o
 
 Simply base your .gitpod.dockerfile on:
 
-FROM gitpod/workspace-mongodb
+`FROM gitpod/workspace-mongodb`
 
 Then start the MongoDB server by running this in a Terminal or in a .gitpod.yml command:
-
-mkdir -p /workspace/data && mongod --dbpath /workspace/data
+`mkdir -p /workspace/data && mongod --dbpath /workspace/data` 

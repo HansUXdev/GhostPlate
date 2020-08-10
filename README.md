@@ -1,3 +1,35 @@
+---
+theme : "night"
+transition: "slide"
+highlightTheme: "monokai"
+logoImg: "logo.png"
+slideNumber: false
+title: "Virtual Learning Solutions"
+---
+
+
+::: block
+There be Ghosts 👻  {style=font-size:3em;width:500px}
+::: 
+---
+
+// @[OSS-Books](etVpwB7uHlw)
+
+---
+
+### TO DO
+
+- [ ] Film 3 Minuete Video
+- [ ] Problem
+- [ ] Solution(s)
+- [ ] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+---
 # RemoteDevCatz
 A modern **development environment** for designers and developers to collaborate remotely by streamlining the software development life cycle.
 
@@ -19,10 +51,12 @@ The goal of this project is to provide a portable development environment that i
 
 
 ## Problem(s):
-[![Software Development Life Cycle](CollaborationTemplates/SDLC.drawio.svg)]()
+1. 
+
+<!-- [![Software Development Life Cycle](CollaborationTemplates/SDLC.drawio.svg)]() -->
 
 ## Potential Solutions
-[![Software Development Life Cycle](CollaborationTemplates/Overview.drawio.svg)]()
+<!-- [![Software Development Life Cycle](CollaborationTemplates/Overview.drawio.svg)]() -->
 
 1. The simplest way to help connect others
 isn't nessissarly to build an new app that you have to login to. The simplest way to look around at whats wrong

@@ -1,0 +1,567 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="4027px" height="2496px" viewBox="-0.5 -0.5 4027 2496" content="&lt;mxfile host=&quot;64250af7-a3b8-485d-b61f-104712a24ef1&quot; modified=&quot;2020-07-28T00:00:50.103Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.2 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;uX2YTN2hcOz5BP_O7t0O&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7Zxdb5swFIZ/TS4TYQwGLtes7S66qVIm7ZoGF6wCjojbJPv1M8EkYIjU5cPYFdwkHJuA/RyOj19DJnCebR+LcJX8pBFOJ7YVbSfw+8S2nQB5/KO07CqLiyy/ssQFiSobOBoW5C8WRktY30mE162KjNKUkVXbuKR5jpesZQuLgm7a1V5p2j7rKoxxx7BYhmnX+odELKmsvu0d7T8wiZP6zAAFVUkW1pVFS9ZJGNFNwwTvJ3BeUMqqb9l2jtOy9+p+qY57OFF6uLAC5+wzB4gr/gjTd9E2cV1sVzf2AxeM8LY/hS84faZrwgjNedELZYxmE3hXV/iWkrgsYHTFrQnLUr4D+NdDIy2+E4XrBEdiZ80K+nboQ1F3VZ4428al88wIXc/Ic0JzXB5LCo6zOn1Oi/Kgu5d4Ia71JX4sMOZld68kTec0pcW+BTDcb9ze7R3RYWUT8LZhEr31iGmGWbHjVbZtFxSuOwVWICyboyc4lrAlDS+wa2MovC8+/PgREP8iGPXz8s3gFUZDkJHZBH4PGt+ZBc3N6ZJCtns5qcAgUhrcV7zT2/ScLrsDlyasU0AvYWcjM+CJsKgY1dRzUftGc2EXlt0XA51rxEDDBi3VdFwrGJSOIUOUvimFj1RmFKYMVPrycpVmgPXNPPI6lxe0lfICZvDSJxGUeLk9WbyyTBDaBtFTTcqD8oSrb+RSNeFyugPZL8owtzyRvPzgreF5KwRlv7ZL7JMlsEO7l8gJeqEAvuSdjIsO8xbHjC7f3lcz3vdstubu8rYrr8QuEdKcNRCi/cbtWUjy37x6aa5qCaUMeHx/kxCGF6twWVo2/BRdZ3jl23J58LJGyQOy7y3rVgkpgD0jZm9GepUI7Hbv4dExNHAM4DhS/ACgJ9bf0DHg6Bg6Ogafk8iOYX92Dnsdx3BHx9DRMabAkjMOR6VbdGXB0S00cAvgdgYSpeECGTLFu+qUvIOnB+JJYg6SgX16GQ0E1yBmyLROY2JqVUrUTdVGYP8HTK1MiZwR2IXA1OqUqJvz6gxMMZypjXzpdqo1KyWrauirr0hfRsdzJToAQKQSz1dfkr4MjwvAsHjMWpMePLYB0PP0zQ3xmLUErTy4SXhQT+Z9OzieWevNykObDYaEY5byoDyw+ZYER2XO5pklMigPaxIcoPbOMUtQUB7WIBwSjlnigfKwJi2PAVdlMu2ZJRRooOxIT7b3LU7cTtfxzFIO9MMFlQrdnllKgn64kNq7yyxlQT9cgaUUl1lKgwa4HO/Mwesq67T1FGHkdS4vtaOXb5YeoSEvtcOXb5ZEoSEvteOXb4hqcebrCBeRAb78FNig73/7hmgYV3zv5zJ8sh7oDvjaj2+IxqEPPCks9j1spI6eIZKHLvQCCd6QL9z5hugf2rCTnhpDPQ+N3Qoe3z3+U9G+rPGHT/D+Hw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-808080-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color:#808080"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-bbbbbb-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color:#bbbbbb"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect x="890" y="200" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,990,400)" pointer-events="all"/>
+        <path d="M 955 200 L 1065 200 C 1078.81 200 1090 211.19 1090 225 L 1090 400 L 1030 400 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="902.5" y="260" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="902.5" y="260" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="890" y="200" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="895" y="205" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <ellipse cx="990" cy="219" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="965" y="230" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <ellipse cx="990" cy="570" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,400)" pointer-events="all"/>
+        <ellipse cx="989.8" cy="569.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <path d="M 970.5 570 C 970.5 559.78 979.23 551.5 990 551.5 C 1000.77 551.5 1009.5 559.78 1009.5 570 C 997.38 576.77 982.62 576.77 970.5 570 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="981.5" y="562" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,990,400)" pointer-events="all"/>
+        <rect x="1790" y="410" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 1947.63 410 L 2250 410 C 2263.81 410 2275 421.19 2275 435 L 2275 722.5 L 2129.5 722.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="1835.01" y="460" width="394.98" height="510" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="1835.01" y="460" width="394.98" height="510" fill="none" stroke="#18211b" pointer-events="all"/>
+        <path d="M 1790 435 C 1790 421.19 1801.19 410 1815 410 L 2250 410 C 2263.81 410 2275 421.19 2275 435 L 2275 1010 C 2275 1023.81 2263.81 1035 2250 1035 L 1815 1035 C 1801.19 1035 1790 1023.81 1790 1010 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1792.5 435 C 1792.5 422.57 1802.57 412.5 1815 412.5 L 2247.5 412.5 C 2253.89 411.79 2260.27 413.84 2265.05 418.14 C 2269.83 422.44 2272.54 428.57 2272.5 435 L 2272.5 1010 C 2272.5 1022.43 2262.43 1032.5 2250 1032.5 L 1815 1032.5 C 1802.57 1032.5 1792.5 1022.43 1792.5 1010 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="2032.48" cy="440.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <ellipse cx="2032.52" cy="1000" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="2032.52" cy="1000" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" pointer-events="all"/>
+        <path d="M 2013 1000 C 2013 989.78 2021.73 981.5 2032.5 981.5 C 2043.27 981.5 2052 989.78 2052 1000 C 2039.88 1006.76 2025.12 1006.76 2013 1000 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2023.48" y="991" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="3470" y="1360" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <path d="M 3627.63 1360 L 3930 1360 C 3943.81 1360 3955 1371.19 3955 1385 L 3955 1672.5 L 3809.5 1672.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <rect x="3515.01" y="1410" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <rect x="3515.01" y="1410" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <path d="M 3470 1385 C 3470 1371.19 3481.19 1360 3495 1360 L 3930 1360 C 3943.81 1360 3955 1371.19 3955 1385 L 3955 1960 C 3955 1973.81 3943.81 1985 3930 1985 L 3495 1985 C 3481.19 1985 3470 1973.81 3470 1960 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <path d="M 3472.5 1385 C 3472.5 1372.57 3482.57 1362.5 3495 1362.5 L 3927.5 1362.5 C 3933.89 1361.79 3940.27 1363.84 3945.05 1368.14 C 3949.83 1372.44 3952.54 1378.57 3952.5 1385 L 3952.5 1960 C 3952.5 1972.43 3942.43 1982.5 3930 1982.5 L 3495 1982.5 C 3482.57 1982.5 3472.5 1972.43 3472.5 1960 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <ellipse cx="3712.48" cy="1390.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <ellipse cx="3712.52" cy="1950" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <ellipse cx="3712.52" cy="1950" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <path d="M 3693 1950 C 3693 1939.78 3701.73 1931.5 3712.5 1931.5 C 3723.27 1931.5 3732 1939.78 3732 1950 C 3719.88 1956.76 3705.12 1956.76 3693 1950 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <rect x="3703.48" y="1941" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,3712.5,1672.5)" pointer-events="all"/>
+        <rect x="24" y="860" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 89 860 L 199 860 C 212.81 860 224 871.19 224 885 L 224 1060 L 164 1060 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="36.5" y="920" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="36.5" y="920" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="24" y="860" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="29" y="865" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="124" cy="879" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="99" y="890" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="124" cy="1230" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="123.8" cy="1229.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 104.5 1230 C 104.5 1219.78 113.23 1211.5 124 1211.5 C 134.77 1211.5 143.5 1219.78 143.5 1230 C 131.38 1236.77 116.62 1236.77 104.5 1230 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="115.5" y="1222" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="271" y="860" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 336 860 L 446 860 C 459.81 860 471 871.19 471 885 L 471 1060 L 411 1060 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="283.5" y="920" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="283.5" y="920" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="271" y="860" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="276" y="865" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="371" cy="879" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="346" y="890" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="371" cy="1230" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="370.8" cy="1229.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 351.5 1230 C 351.5 1219.78 360.23 1211.5 371 1211.5 C 381.77 1211.5 390.5 1219.78 390.5 1230 C 378.38 1236.77 363.62 1236.77 351.5 1230 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="362.5" y="1222" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="890" y="430" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,990,630)" pointer-events="all"/>
+        <path d="M 955 430 L 1065 430 C 1078.81 430 1090 441.19 1090 455 L 1090 630 L 1030 630 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="902.5" y="490" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="902.5" y="490" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="890" y="430" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="895" y="435" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <ellipse cx="990" cy="449" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="965" y="460" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <ellipse cx="990" cy="800" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,630)" pointer-events="all"/>
+        <ellipse cx="989.8" cy="799.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <path d="M 970.5 800 C 970.5 789.78 979.23 781.5 990 781.5 C 1000.77 781.5 1009.5 789.78 1009.5 800 C 997.38 806.77 982.62 806.77 970.5 800 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="981.5" y="792" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,990,630)" pointer-events="all"/>
+        <rect x="890" y="700" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,990,900)" pointer-events="all"/>
+        <path d="M 955 700 L 1065 700 C 1078.81 700 1090 711.19 1090 725 L 1090 900 L 1030 900 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="902.5" y="760" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="902.5" y="760" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="890" y="700" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="895" y="705" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <ellipse cx="990" cy="719" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="965" y="730" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <ellipse cx="990" cy="1070" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,900)" pointer-events="all"/>
+        <ellipse cx="989.8" cy="1069.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <path d="M 970.5 1070 C 970.5 1059.78 979.23 1051.5 990 1051.5 C 1000.77 1051.5 1009.5 1059.78 1009.5 1070 C 997.38 1076.77 982.62 1076.77 970.5 1070 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="981.5" y="1062" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,990,900)" pointer-events="all"/>
+        <rect x="890" y="970" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <path d="M 955 970 L 1065 970 C 1078.81 970 1090 981.19 1090 995 L 1090 1170 L 1030 1170 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="902.5" y="1030" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="902.5" y="1030" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="890" y="970" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="895" y="975" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <ellipse cx="990" cy="989" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="965" y="1000" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <ellipse cx="990" cy="1340" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <ellipse cx="989.8" cy="1339.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <path d="M 970.5 1340 C 970.5 1329.78 979.23 1321.5 990 1321.5 C 1000.77 1321.5 1009.5 1329.78 1009.5 1340 C 997.38 1346.77 982.62 1346.77 970.5 1340 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="981.5" y="1332" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,990,1170)" pointer-events="all"/>
+        <rect x="3460" y="1900" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <path d="M 3617.63 1900 L 3920 1900 C 3933.81 1900 3945 1911.19 3945 1925 L 3945 2212.5 L 3799.5 2212.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <rect x="3505.01" y="1950" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <rect x="3505.01" y="1950" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <path d="M 3460 1925 C 3460 1911.19 3471.19 1900 3485 1900 L 3920 1900 C 3933.81 1900 3945 1911.19 3945 1925 L 3945 2500 C 3945 2513.81 3933.81 2525 3920 2525 L 3485 2525 C 3471.19 2525 3460 2513.81 3460 2500 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <path d="M 3462.5 1925 C 3462.5 1912.57 3472.57 1902.5 3485 1902.5 L 3917.5 1902.5 C 3923.89 1901.79 3930.27 1903.84 3935.05 1908.14 C 3939.83 1912.44 3942.54 1918.57 3942.5 1925 L 3942.5 2500 C 3942.5 2512.43 3932.43 2522.5 3920 2522.5 L 3485 2522.5 C 3472.57 2522.5 3462.5 2512.43 3462.5 2500 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <ellipse cx="3702.48" cy="1930.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <ellipse cx="3702.52" cy="2490" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <ellipse cx="3702.52" cy="2490" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <path d="M 3683 2490 C 3683 2479.78 3691.73 2471.5 3702.5 2471.5 C 3713.27 2471.5 3722 2479.78 3722 2490 C 3709.88 2496.76 3695.12 2496.76 3683 2490 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <rect x="3693.48" y="2481" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,3702.5,2212.5)" pointer-events="all"/>
+        <rect x="3510" y="430" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 3667.63 430 L 3970 430 C 3983.81 430 3995 441.19 3995 455 L 3995 742.5 L 3849.5 742.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="3555.01" y="480" width="394.98" height="510" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="3555.01" y="480" width="394.98" height="510" fill="none" stroke="#18211b" pointer-events="all"/>
+        <path d="M 3510 455 C 3510 441.19 3521.19 430 3535 430 L 3970 430 C 3983.81 430 3995 441.19 3995 455 L 3995 1030 C 3995 1043.81 3983.81 1055 3970 1055 L 3535 1055 C 3521.19 1055 3510 1043.81 3510 1030 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 3512.5 455 C 3512.5 442.57 3522.57 432.5 3535 432.5 L 3967.5 432.5 C 3973.89 431.79 3980.27 433.84 3985.05 438.14 C 3989.83 442.44 3992.54 448.57 3992.5 455 L 3992.5 1030 C 3992.5 1042.43 3982.43 1052.5 3970 1052.5 L 3535 1052.5 C 3522.57 1052.5 3512.5 1042.43 3512.5 1030 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="3752.48" cy="460.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <ellipse cx="3752.52" cy="1020" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="3752.52" cy="1020" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" pointer-events="all"/>
+        <path d="M 3733 1020 C 3733 1009.78 3741.73 1001.5 3752.5 1001.5 C 3763.27 1001.5 3772 1009.78 3772 1020 C 3759.88 1026.76 3745.12 1026.76 3733 1020 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="3743.48" y="1011" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 277 14 L 449 12 C 446.2 74.06 452.96 136.18 469 196 L 289 198 C 275.64 137.73 271.59 75.62 277 14 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 327 0 L 389 0 L 391 24 L 327 26 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 100px; margin-left: 272px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Note Line 1
+                                <br/>
+                                Note Line 2
+                                <br/>
+                                Note Line 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="371" y="105" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    Note Line 1...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2226 224 L 2398 222 C 2395.2 284.06 2401.96 346.18 2418 406 L 2238 408 C 2224.64 347.73 2220.59 285.62 2226 224 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 2276 210 L 2338 210 L 2340 234 L 2276 236 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 310px; margin-left: 2221px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Note Line 1
+                                <br/>
+                                Note Line 2
+                                <br/>
+                                Note Line 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2320" y="315" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    Note Line 1...
+                </text>
+            </switch>
+        </g>
+        <path d="M 3076 174 L 3248 172 C 3245.2 234.06 3251.96 296.18 3268 356 L 3088 358 C 3074.64 297.73 3070.59 235.62 3076 174 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 3126 160 L 3188 160 L 3190 184 L 3126 186 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 260px; margin-left: 3071px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Note Line 1
+                                <br/>
+                                Note Line 2
+                                <br/>
+                                Note Line 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="3170" y="265" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    Note Line 1...
+                </text>
+            </switch>
+        </g>
+        <path d="M 686 1310 L 858 1308 C 855.2 1370.06 861.96 1432.18 878 1492 L 698 1494 C 684.64 1433.73 680.59 1371.62 686 1310 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 736 1296 L 798 1296 L 800 1320 L 736 1322 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 1396px; margin-left: 681px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Note Line 1
+                                <br/>
+                                Note Line 2
+                                <br/>
+                                Note Line 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="780" y="1401" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    Note Line 1...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2326 1274 L 2498 1272 C 2495.2 1334.06 2501.96 1396.18 2518 1456 L 2338 1458 C 2324.64 1397.73 2320.59 1335.62 2326 1274 Z" fill="#ffffcc" stroke="none" pointer-events="all"/>
+        <path d="M 2376 1260 L 2438 1260 L 2440 1284 L 2376 1286 Z" fill="#f62e00" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 1360px; margin-left: 2321px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Note Line 1
+                                <br/>
+                                Note Line 2
+                                <br/>
+                                Note Line 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2420" y="1365" fill="#666666" font-family="Helvetica" font-size="17px" text-anchor="middle">
+                    Note Line 1...
+                </text>
+            </switch>
+        </g>
+        <rect x="1345" y="195" width="190" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <path d="M 1406.75 195 L 1510 195 C 1523.81 195 1535 206.19 1535 220 L 1535 395 L 1478 395 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1356.88" y="255" width="166.25" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1356.88" y="255" width="166.25" height="280" fill="none" stroke="#18211b" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1345" y="195" width="190" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1350" y="200" width="180" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <ellipse cx="1440" cy="214" rx="2.375" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1416.25" y="225" width="47.5" height="7.5" rx="3.8" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <ellipse cx="1440" cy="565" rx="19" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <ellipse cx="1439.81" cy="564.4" rx="18.05" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <path d="M 1421.47 565 C 1421.48 554.78 1429.77 546.5 1440 546.5 C 1450.23 546.5 1458.52 554.78 1458.53 565 C 1447.01 571.77 1432.99 571.77 1421.47 565 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1431.92" y="557" width="16.63" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1440,395)" pointer-events="all"/>
+        <rect x="1340" y="430" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <path d="M 1405 430 L 1515 430 C 1528.81 430 1540 441.19 1540 455 L 1540 630 L 1480 630 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1352.5" y="490" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1352.5" y="490" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1340" y="430" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1345" y="435" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <ellipse cx="1440" cy="449" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1415" y="460" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <ellipse cx="1440" cy="800" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <ellipse cx="1439.8" cy="799.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <path d="M 1420.5 800 C 1420.5 789.78 1429.23 781.5 1440 781.5 C 1450.77 781.5 1459.5 789.78 1459.5 800 C 1447.38 806.77 1432.62 806.77 1420.5 800 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1431.5" y="792" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1440,630)" pointer-events="all"/>
+        <rect x="1340" y="700" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <path d="M 1405 700 L 1515 700 C 1528.81 700 1540 711.19 1540 725 L 1540 900 L 1480 900 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1352.5" y="760" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1352.5" y="760" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1340" y="700" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1345" y="705" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <ellipse cx="1440" cy="719" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1415" y="730" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <ellipse cx="1440" cy="1070" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <ellipse cx="1439.8" cy="1069.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <path d="M 1420.5 1070 C 1420.5 1059.78 1429.23 1051.5 1440 1051.5 C 1450.77 1051.5 1459.5 1059.78 1459.5 1070 C 1447.38 1076.77 1432.62 1076.77 1420.5 1070 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1431.5" y="1062" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1440,900)" pointer-events="all"/>
+        <rect x="1340" y="970" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <path d="M 1405 970 L 1515 970 C 1528.81 970 1540 981.19 1540 995 L 1540 1170 L 1480 1170 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1352.5" y="1030" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1352.5" y="1030" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1340" y="970" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1345" y="975" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <ellipse cx="1440" cy="989" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1415" y="1000" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <ellipse cx="1440" cy="1340" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <ellipse cx="1439.8" cy="1339.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <path d="M 1420.5 1340 C 1420.5 1329.78 1429.23 1321.5 1440 1321.5 C 1450.77 1321.5 1459.5 1329.78 1459.5 1340 C 1447.38 1346.77 1432.62 1346.77 1420.5 1340 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="1431.5" y="1332" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1440,1170)" pointer-events="all"/>
+        <rect x="512" y="865" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 577 865 L 687 865 C 700.81 865 712 876.19 712 890 L 712 1065 L 652 1065 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="524.5" y="925" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="524.5" y="925" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="512" y="865" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="517" y="870" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="612" cy="884" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="587" y="895" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="612" cy="1235" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="611.8" cy="1234.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 592.5 1235 C 592.5 1224.78 601.23 1216.5 612 1216.5 C 622.77 1216.5 631.5 1224.78 631.5 1235 C 619.38 1241.77 604.62 1241.77 592.5 1235 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="603.5" y="1227" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="22" y="254" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 87 254 L 197 254 C 210.81 254 222 265.19 222 279 L 222 454 L 162 454 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="34.5" y="314" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="34.5" y="314" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="22" y="254" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="27" y="259" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="122" cy="273" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="97" y="284" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="122" cy="624" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="121.8" cy="623.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 102.5 624 C 102.5 613.78 111.23 605.5 122 605.5 C 132.77 605.5 141.5 613.78 141.5 624 C 129.38 630.77 114.62 630.77 102.5 624 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="113.5" y="616" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="269" y="254" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 334 254 L 444 254 C 457.81 254 469 265.19 469 279 L 469 454 L 409 454 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="281.5" y="314" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="281.5" y="314" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="269" y="254" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="274" y="259" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="369" cy="273" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="344" y="284" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="369" cy="624" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="368.8" cy="623.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 349.5 624 C 349.5 613.78 358.23 605.5 369 605.5 C 379.77 605.5 388.5 613.78 388.5 624 C 376.38 630.77 361.62 630.77 349.5 624 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360.5" y="616" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="512" y="250" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 577 250 L 687 250 C 700.81 250 712 261.19 712 275 L 712 450 L 652 450 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="524.5" y="310" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="524.5" y="310" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="512" y="250" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="517" y="255" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="612" cy="269" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="587" y="280" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="612" cy="620" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="611.8" cy="619.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 592.5 620 C 592.5 609.78 601.23 601.5 612 601.5 C 622.77 601.5 631.5 609.78 631.5 620 C 619.38 626.77 604.62 626.77 592.5 620 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="603.5" y="612" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="12" y="2050" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 77 2050 L 187 2050 C 200.81 2050 212 2061.19 212 2075 L 212 2250 L 152 2250 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="24.5" y="2110" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="24.5" y="2110" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="12" y="2050" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="17" y="2055" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="112" cy="2069" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="87" y="2080" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="112" cy="2420" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="111.8" cy="2419.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 92.5 2420 C 92.5 2409.78 101.23 2401.5 112 2401.5 C 122.77 2401.5 131.5 2409.78 131.5 2420 C 119.38 2426.77 104.62 2426.77 92.5 2420 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="103.5" y="2412" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="259" y="2050" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 324 2050 L 434 2050 C 447.81 2050 459 2061.19 459 2075 L 459 2250 L 399 2250 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="271.5" y="2110" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="271.5" y="2110" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="259" y="2050" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="264" y="2055" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="359" cy="2069" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="334" y="2080" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="359" cy="2420" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="358.8" cy="2419.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 339.5 2420 C 339.5 2409.78 348.23 2401.5 359 2401.5 C 369.77 2401.5 378.5 2409.78 378.5 2420 C 366.38 2426.77 351.62 2426.77 339.5 2420 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="350.5" y="2412" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="500" y="2055" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 565 2055 L 675 2055 C 688.81 2055 700 2066.19 700 2080 L 700 2255 L 640 2255 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="512.5" y="2115" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="512.5" y="2115" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="500" y="2055" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="505" y="2060" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="600" cy="2074" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="575" y="2085" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="600" cy="2425" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="599.8" cy="2424.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 580.5 2425 C 580.5 2414.78 589.23 2406.5 600 2406.5 C 610.77 2406.5 619.5 2414.78 619.5 2425 C 607.38 2431.77 592.62 2431.77 580.5 2425 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="591.5" y="2417" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="0" y="1550" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 65 1550 L 175 1550 C 188.81 1550 200 1561.19 200 1575 L 200 1750 L 140 1750 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="12.5" y="1610" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="12.5" y="1610" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="0" y="1550" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="5" y="1555" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="100" cy="1569" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="75" y="1580" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="100" cy="1920" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="99.8" cy="1919.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 80.5 1920 C 80.5 1909.78 89.23 1901.5 100 1901.5 C 110.77 1901.5 119.5 1909.78 119.5 1920 C 107.38 1926.77 92.62 1926.77 80.5 1920 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="91.5" y="1912" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="247" y="1550" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 312 1550 L 422 1550 C 435.81 1550 447 1561.19 447 1575 L 447 1750 L 387 1750 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="259.5" y="1610" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="259.5" y="1610" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="247" y="1550" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="252" y="1555" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="347" cy="1569" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="322" y="1580" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="347" cy="1920" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="346.8" cy="1919.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 327.5 1920 C 327.5 1909.78 336.23 1901.5 347 1901.5 C 357.77 1901.5 366.5 1909.78 366.5 1920 C 354.38 1926.77 339.62 1926.77 327.5 1920 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="338.5" y="1912" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="490" y="1546" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 555 1546 L 665 1546 C 678.81 1546 690 1557.19 690 1571 L 690 1746 L 630 1746 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="502.5" y="1606" width="175" height="280" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="502.5" y="1606" width="175" height="280" fill="none" stroke="#18211b" pointer-events="all"/>
+        <rect x="490" y="1546" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <rect x="495" y="1551" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="590" cy="1565" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <rect x="565" y="1576" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" pointer-events="all"/>
+        <ellipse cx="590" cy="1916" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="589.8" cy="1915.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" pointer-events="all"/>
+        <path d="M 570.5 1916 C 570.5 1905.78 579.23 1897.5 590 1897.5 C 600.77 1897.5 609.5 1905.78 609.5 1916 C 597.38 1922.77 582.62 1922.77 570.5 1916 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="581.5" y="1908" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="900" y="1420" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <path d="M 965 1420 L 1075 1420 C 1088.81 1420 1100 1431.19 1100 1445 L 1100 1620 L 1040 1620 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="912.5" y="1480" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="912.5" y="1480" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="900" y="1420" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="905" y="1425" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <ellipse cx="1000" cy="1439" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="975" y="1450" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <ellipse cx="1000" cy="1790" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <ellipse cx="999.8" cy="1789.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <path d="M 980.5 1790 C 980.5 1779.78 989.23 1771.5 1000 1771.5 C 1010.77 1771.5 1019.5 1779.78 1019.5 1790 C 1007.38 1796.77 992.62 1796.77 980.5 1790 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="991.5" y="1782" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1000,1620)" pointer-events="all"/>
+        <rect x="900" y="1650" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <path d="M 965 1650 L 1075 1650 C 1088.81 1650 1100 1661.19 1100 1675 L 1100 1850 L 1040 1850 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="912.5" y="1710" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="912.5" y="1710" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="900" y="1650" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="905" y="1655" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <ellipse cx="1000" cy="1669" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="975" y="1680" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <ellipse cx="1000" cy="2020" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <ellipse cx="999.8" cy="2019.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <path d="M 980.5 2020 C 980.5 2009.78 989.23 2001.5 1000 2001.5 C 1010.77 2001.5 1019.5 2009.78 1019.5 2020 C 1007.38 2026.77 992.62 2026.77 980.5 2020 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="991.5" y="2012" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1000,1850)" pointer-events="all"/>
+        <rect x="900" y="1920" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <path d="M 965 1920 L 1075 1920 C 1088.81 1920 1100 1931.19 1100 1945 L 1100 2120 L 1040 2120 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="912.5" y="1980" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="912.5" y="1980" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="900" y="1920" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="905" y="1925" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <ellipse cx="1000" cy="1939" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="975" y="1950" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <ellipse cx="1000" cy="2290" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <ellipse cx="999.8" cy="2289.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <path d="M 980.5 2290 C 980.5 2279.78 989.23 2271.5 1000 2271.5 C 1010.77 2271.5 1019.5 2279.78 1019.5 2290 C 1007.38 2296.77 992.62 2296.77 980.5 2290 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="991.5" y="2282" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1000,2120)" pointer-events="all"/>
+        <rect x="900" y="2190" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <path d="M 965 2190 L 1075 2190 C 1088.81 2190 1100 2201.19 1100 2215 L 1100 2390 L 1040 2390 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="912.5" y="2250" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="912.5" y="2250" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="900" y="2190" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="905" y="2195" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <ellipse cx="1000" cy="2209" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="975" y="2220" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <ellipse cx="1000" cy="2560" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <ellipse cx="999.8" cy="2559.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <path d="M 980.5 2560 C 980.5 2549.78 989.23 2541.5 1000 2541.5 C 1010.77 2541.5 1019.5 2549.78 1019.5 2560 C 1007.38 2566.77 992.62 2566.77 980.5 2560 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="991.5" y="2552" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1000,2390)" pointer-events="all"/>
+        <rect x="1355" y="1415" width="190" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <path d="M 1416.75 1415 L 1520 1415 C 1533.81 1415 1545 1426.19 1545 1440 L 1545 1615 L 1488 1615 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1366.88" y="1475" width="166.25" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1366.88" y="1475" width="166.25" height="280" fill="none" stroke="#18211b" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1355" y="1415" width="190" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1360" y="1420" width="180" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <ellipse cx="1450" cy="1434" rx="2.375" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1426.25" y="1445" width="47.5" height="7.5" rx="3.8" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <ellipse cx="1450" cy="1785" rx="19" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <ellipse cx="1449.81" cy="1784.4" rx="18.05" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <path d="M 1431.47 1785 C 1431.48 1774.78 1439.77 1766.5 1450 1766.5 C 1460.23 1766.5 1468.52 1774.78 1468.53 1785 C 1457.01 1791.77 1442.99 1791.77 1431.47 1785 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1441.92" y="1777" width="16.63" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1450,1615)" pointer-events="all"/>
+        <rect x="1350" y="1650" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <path d="M 1415 1650 L 1525 1650 C 1538.81 1650 1550 1661.19 1550 1675 L 1550 1850 L 1490 1850 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1362.5" y="1710" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1362.5" y="1710" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1350" y="1650" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1355" y="1655" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <ellipse cx="1450" cy="1669" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1425" y="1680" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <ellipse cx="1450" cy="2020" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <ellipse cx="1449.8" cy="2019.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <path d="M 1430.5 2020 C 1430.5 2009.78 1439.23 2001.5 1450 2001.5 C 1460.77 2001.5 1469.5 2009.78 1469.5 2020 C 1457.38 2026.77 1442.62 2026.77 1430.5 2020 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1441.5" y="2012" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1450,1850)" pointer-events="all"/>
+        <rect x="1350" y="1920" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <path d="M 1415 1920 L 1525 1920 C 1538.81 1920 1550 1931.19 1550 1945 L 1550 2120 L 1490 2120 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1362.5" y="1980" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1362.5" y="1980" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1350" y="1920" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1355" y="1925" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <ellipse cx="1450" cy="1939" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1425" y="1950" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <ellipse cx="1450" cy="2290" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <ellipse cx="1449.8" cy="2289.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <path d="M 1430.5 2290 C 1430.5 2279.78 1439.23 2271.5 1450 2271.5 C 1460.77 2271.5 1469.5 2279.78 1469.5 2290 C 1457.38 2296.77 1442.62 2296.77 1430.5 2290 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1441.5" y="2282" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1450,2120)" pointer-events="all"/>
+        <rect x="1350" y="2190" width="200" height="400" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <path d="M 1415 2190 L 1525 2190 C 1538.81 2190 1550 2201.19 1550 2215 L 1550 2390 L 1490 2390 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1362.5" y="2250" width="175" height="280" fill="#1f2923" stroke="none" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1362.5" y="2250" width="175" height="280" fill="none" stroke="#18211b" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1350" y="2190" width="200" height="400" rx="25" ry="25" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1355" y="2195" width="190" height="390" rx="22.5" ry="22.5" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <ellipse cx="1450" cy="2209" rx="2.5" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1425" y="2220" width="50" height="7.5" rx="4" ry="4" fill="#444444" stroke="#333333" stroke-width="1.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <ellipse cx="1450" cy="2560" rx="20" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <ellipse cx="1449.8" cy="2559.4" rx="19" ry="19" fill="none" stroke="#333333" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <path d="M 1430.5 2560 C 1430.5 2549.78 1439.23 2541.5 1450 2541.5 C 1460.77 2541.5 1469.5 2549.78 1469.5 2560 C 1457.38 2566.77 1442.62 2566.77 1430.5 2560 Z" fill-opacity="0.85" fill="#000000" stroke="#333333" stroke-opacity="0.85" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="1441.5" y="2552" width="17.5" height="17.5" rx="2.5" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,1450,2390)" pointer-events="all"/>
+        <rect x="2620" y="410" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <path d="M 2777.63 410 L 3080 410 C 3093.81 410 3105 421.19 3105 435 L 3105 722.5 L 2959.5 722.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <rect x="2665.01" y="460" width="394.98" height="510" fill="#1f2923" stroke="none" pointer-events="all"/>
+        <rect x="2665.01" y="460" width="394.98" height="510" fill="none" stroke="#18211b" pointer-events="all"/>
+        <path d="M 2620 435 C 2620 421.19 2631.19 410 2645 410 L 3080 410 C 3093.81 410 3105 421.19 3105 435 L 3105 1010 C 3105 1023.81 3093.81 1035 3080 1035 L 2645 1035 C 2631.19 1035 2620 1023.81 2620 1010 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2622.5 435 C 2622.5 422.57 2632.57 412.5 2645 412.5 L 3077.5 412.5 C 3083.89 411.79 3090.27 413.84 3095.05 418.14 C 3099.83 422.44 3102.54 428.57 3102.5 435 L 3102.5 1010 C 3102.5 1022.43 3092.43 1032.5 3080 1032.5 L 2645 1032.5 C 2632.57 1032.5 2622.5 1022.43 2622.5 1010 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="2862.48" cy="440.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" pointer-events="all"/>
+        <ellipse cx="2862.52" cy="1000" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" pointer-events="all"/>
+        <ellipse cx="2862.52" cy="1000" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" pointer-events="all"/>
+        <path d="M 2843 1000 C 2843 989.78 2851.73 981.5 2862.5 981.5 C 2873.27 981.5 2882 989.78 2882 1000 C 2869.88 1006.76 2855.12 1006.76 2843 1000 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2853.48" y="991" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" pointer-events="all"/>
+        <rect x="2630" y="1370" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <path d="M 2787.63 1370 L 3090 1370 C 3103.81 1370 3115 1381.19 3115 1395 L 3115 1682.5 L 2969.5 1682.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <rect x="2675.01" y="1420" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <rect x="2675.01" y="1420" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <path d="M 2630 1395 C 2630 1381.19 2641.19 1370 2655 1370 L 3090 1370 C 3103.81 1370 3115 1381.19 3115 1395 L 3115 1970 C 3115 1983.81 3103.81 1995 3090 1995 L 2655 1995 C 2641.19 1995 2630 1983.81 2630 1970 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <path d="M 2632.5 1395 C 2632.5 1382.57 2642.57 1372.5 2655 1372.5 L 3087.5 1372.5 C 3093.89 1371.79 3100.27 1373.84 3105.05 1378.14 C 3109.83 1382.44 3112.54 1388.57 3112.5 1395 L 3112.5 1970 C 3112.5 1982.43 3102.43 1992.5 3090 1992.5 L 2655 1992.5 C 2642.57 1992.5 2632.5 1982.43 2632.5 1970 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <ellipse cx="2872.48" cy="1400.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <ellipse cx="2872.52" cy="1960" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <ellipse cx="2872.52" cy="1960" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <path d="M 2853 1960 C 2853 1949.78 2861.73 1941.5 2872.5 1941.5 C 2883.27 1941.5 2892 1949.78 2892 1960 C 2879.88 1966.76 2865.12 1966.76 2853 1960 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <rect x="2863.48" y="1951" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,2872.5,1682.5)" pointer-events="all"/>
+        <rect x="2620" y="1910" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <path d="M 2777.63 1910 L 3080 1910 C 3093.81 1910 3105 1921.19 3105 1935 L 3105 2222.5 L 2959.5 2222.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <rect x="2665.01" y="1960" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <rect x="2665.01" y="1960" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <path d="M 2620 1935 C 2620 1921.19 2631.19 1910 2645 1910 L 3080 1910 C 3093.81 1910 3105 1921.19 3105 1935 L 3105 2510 C 3105 2523.81 3093.81 2535 3080 2535 L 2645 2535 C 2631.19 2535 2620 2523.81 2620 2510 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <path d="M 2622.5 1935 C 2622.5 1922.57 2632.57 1912.5 2645 1912.5 L 3077.5 1912.5 C 3083.89 1911.79 3090.27 1913.84 3095.05 1918.14 C 3099.83 1922.44 3102.54 1928.57 3102.5 1935 L 3102.5 2510 C 3102.5 2522.43 3092.43 2532.5 3080 2532.5 L 2645 2532.5 C 2632.57 2532.5 2622.5 2522.43 2622.5 2510 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <ellipse cx="2862.48" cy="1940.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <ellipse cx="2862.52" cy="2500" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <ellipse cx="2862.52" cy="2500" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <path d="M 2843 2500 C 2843 2489.78 2851.73 2481.5 2862.5 2481.5 C 2873.27 2481.5 2882 2489.78 2882 2500 C 2869.88 2506.76 2855.12 2506.76 2843 2500 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <rect x="2853.48" y="2491" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,2862.5,2222.5)" pointer-events="all"/>
+        <rect x="1820" y="1400" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <path d="M 1977.63 1400 L 2280 1400 C 2293.81 1400 2305 1411.19 2305 1425 L 2305 1712.5 L 2159.5 1712.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <rect x="1865.01" y="1450" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <rect x="1865.01" y="1450" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <path d="M 1820 1425 C 1820 1411.19 1831.19 1400 1845 1400 L 2280 1400 C 2293.81 1400 2305 1411.19 2305 1425 L 2305 2000 C 2305 2013.81 2293.81 2025 2280 2025 L 1845 2025 C 1831.19 2025 1820 2013.81 1820 2000 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <path d="M 1822.5 1425 C 1822.5 1412.57 1832.57 1402.5 1845 1402.5 L 2277.5 1402.5 C 2283.89 1401.79 2290.27 1403.84 2295.05 1408.14 C 2299.83 1412.44 2302.54 1418.57 2302.5 1425 L 2302.5 2000 C 2302.5 2012.43 2292.43 2022.5 2280 2022.5 L 1845 2022.5 C 1832.57 2022.5 1822.5 2012.43 1822.5 2000 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <ellipse cx="2062.48" cy="1430.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <ellipse cx="2062.52" cy="1990" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <ellipse cx="2062.52" cy="1990" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <path d="M 2043 1990 C 2043 1979.78 2051.73 1971.5 2062.5 1971.5 C 2073.27 1971.5 2082 1979.78 2082 1990 C 2069.88 1996.76 2055.12 1996.76 2043 1990 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <rect x="2053.48" y="1981" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,2062.5,1712.5)" pointer-events="all"/>
+        <rect x="1810" y="1940" width="485" height="625" rx="25" ry="25" fill="#000000" stroke="#000000" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <path d="M 1967.63 1940 L 2270 1940 C 2283.81 1940 2295 1951.19 2295 1965 L 2295 2252.5 L 2149.5 2252.5 Z" fill="url(#mx-gradient-808080-1-000000-1-s-0)" stroke="none" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <rect x="1855.01" y="1990" width="394.98" height="510" fill="#1f2923" stroke="none" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <rect x="1855.01" y="1990" width="394.98" height="510" fill="none" stroke="#18211b" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <path d="M 1810 1965 C 1810 1951.19 1821.19 1940 1835 1940 L 2270 1940 C 2283.81 1940 2295 1951.19 2295 1965 L 2295 2540 C 2295 2553.81 2283.81 2565 2270 2565 L 1835 2565 C 1821.19 2565 1810 2553.81 1810 2540 Z" fill="none" stroke="#dddddd" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <path d="M 1812.5 1965 C 1812.5 1952.57 1822.57 1942.5 1835 1942.5 L 2267.5 1942.5 C 2273.89 1941.79 2280.27 1943.84 2285.05 1948.14 C 2289.83 1952.44 2292.54 1958.57 2292.5 1965 L 2292.5 2540 C 2292.5 2552.43 2282.43 2562.5 2270 2562.5 L 1835 2562.5 C 1822.57 2562.5 1812.5 2552.43 1812.5 2540 Z" fill="none" stroke="#666666" stroke-opacity="0.8" stroke-width="1.5" stroke-miterlimit="10" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <ellipse cx="2052.48" cy="1970.25" rx="2.49775" ry="2.5" fill="#000099" stroke="#000000" stroke-width="2.5" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <ellipse cx="2052.52" cy="2530" rx="20.00625" ry="20" fill="url(#mx-gradient-bbbbbb-1-000000-1-s-0)" stroke="none" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <ellipse cx="2052.52" cy="2530" rx="20.00625" ry="20" fill="none" stroke="#000000" stroke-opacity="0.5" stroke-width="2.5" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <path d="M 2033 2530 C 2033 2519.78 2041.73 2511.5 2052.5 2511.5 C 2063.27 2511.5 2072 2519.78 2072 2530 C 2059.88 2536.76 2045.12 2536.76 2033 2530 Z" fill-opacity="0.85" fill="#000000" stroke="#000000" stroke-opacity="0.85" stroke-width="2.5" stroke-miterlimit="10" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+        <rect x="2043.48" y="2521" width="17.99" height="18" rx="3.22" ry="2.5" fill="none" stroke="#dddddd" stroke-opacity="0.7" stroke-width="1.5" transform="rotate(270,2052.5,2252.5)" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

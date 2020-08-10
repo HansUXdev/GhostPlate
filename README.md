@@ -138,12 +138,13 @@ Currently exploring the following options:
 --- 
 
 ## Tech stack used (i.e Node, React, Auth0, Jest, etc)
-Visual Studio Code, Node.js, React, Ionic, Docker, GitPod
+Visual Studio Code, Node.js, React, Ionic, Docker, GitPod, Johny5
 
 ---
 
 ## How to use it (Including set up instructions/requirements, local development)
-Hans will publish an extensive tutorial on this subject and include it in the development.
+
+- [Ionic Config](https://github.com/hpssjellis/ionic-webcam-help)
 
 ----
 ## Resources:

@@ -1,19 +1,6 @@
 tasks:
-  - command: npx @ionic/cli && echo "Installed ionic"
-  - command: npx gatsby-cli && echo "Installed gatsby"
-  - command: npx @ionic/cli && echo "Installed gatsby"
-  - command: npx gatsby-cli && echo "Installed gatsby"
-  - command: npx next -h
-#   - command: npm npx @ionic/cli && npm npx gatsby-cli 
-#   npx next -h && npx documentation.js && npm i -g @loopback/cli
-#    npm npx t2-cli
-#   - init: echo "Replace me with a build script for the project."
-# # Specifiy where mongo data is stored
-#     command:  mkdir -p /workspace/data && mongod --dbpath /workspace/data 
-# # AWS
-#   - command: pip install --user virtualenv
-# # DigitalOcean
-#   - command: brew install doctl
+  - init: echo "Replace me with a build script for the project."
+    command:  mkdir -p /workspace/data && mongod --dbpath /workspace/data 
 image:
   file: .gitpod.Dockerfile
 

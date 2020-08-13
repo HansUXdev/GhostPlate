@@ -2,7 +2,7 @@ tasks:
   - init: echo "Replace me with a build script for the project."
     command:  mkdir -p /workspace/data && mongod --dbpath /workspace/data --fork --logpath /workspace/data/mongod.log
 image:
-  file: .gitpod.Dockerfile
+  file: .gitpod.dockerfile
 
 ports:
   - port: 3000

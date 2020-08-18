@@ -30,19 +30,20 @@ vscode:
     - idleberg.svg-icons@0.7.0:ktzpetSpTEIdU0RF39/Dgg==
 
 tasks:
-  -  command: mkdir /workspace/ionic-webcam-help/logs                              &&
+  -  command: npm install -g create-react-app  && npm install -g gatsby-cli && npx next -h && npm install -g @ionic/cli &&
+              mkdir /workspace/ionic-webcam-help/logs                              &&
               touch /workspace/ionic-webcam-help/logs/gitpod-install-log.txt       &&
        
        
               echo "Starting .gitpod.yml installation" &>>  /workspace/ionic-webcam-help/logs/gitpod-install-log.txt  &&  
               
               echo "Set bash files to runable"         &>>  /workspace/ionic-webcam-help/logs/gitpod-install-log.txt  &&                 
-              chmod +x ./ionic/a01-cordova-create.sh                                                                  &&      
-              chmod +x ./ionic/a02-cordova-rebuild.sh                                                                 &&     
-              chmod +x ./ionic/a03-android-sdkmanager.sh                                                              && 
-              chmod +x ./ionic/a04-ionic-start.sh                                                                     && 
-              chmod +x ./ionic/a05-ionic-rebuild.sh                                                                   && 
-              chmod +x ./ionic/a06-capacitor-create.sh                                                                && 
+              chmod +x a01-cordova-create.sh                                                                  &&      
+              chmod +x a02-cordova-rebuild.sh                                                                 &&     
+              chmod +x a03-android-sdkmanager.sh                                                              && 
+              chmod +x a04-ionic-start.sh                                                                     && 
+              chmod +x a05-ionic-rebuild.sh                                                                   && 
+              chmod +x a06-capacitor-create.sh                                                                && 
               
               chmod -R 775 /home/gitpod/.android                                                                      &&
              

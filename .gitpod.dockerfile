@@ -33,7 +33,9 @@ USER gitpod
 # AWS & DigitalOcean CLI tools - pip install --user virtualenv &&
 #  DigitalOcean - && brew install doctl 
 # Pre-Install npm CLI's
-RUN echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt \ && ls -ls /home/gitpod/.android >> /home/gitpod/rocksetta/logs/mylogs.txt \ &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt          
+RUN  echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt             \
+     && ls -ls /home/gitpod/.android >> /home/gitpod/rocksetta/logs/mylogs.txt            \
+     &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt          
 
 
 # Give back control

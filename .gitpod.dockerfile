@@ -30,10 +30,10 @@ RUN wget https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip   
 
 USER gitpod
 
-# AWS & DigitalOcean CLI tools
-# && brew install doctl # DigitalOcean
+# AWS & DigitalOcean CLI tools - pip install --user virtualenv &&
+#  DigitalOcean - && brew install doctl 
 # Pre-Install npm CLI's
-RUN  pip install --user virtualenv && && npm install -g create-react-app  && npm install -g gatsby-cli && npx documentation.js && npm install -g t2-cli && npm install -g @ionic/cli && echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt \ && ls -ls /home/gitpod/.android >> /home/gitpod/rocksetta/logs/mylogs.txt \ &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt          
+RUN npm install -g create-react-app  && npm install -g gatsby-cli && npx documentation.js && npm install -g t2-cli && npm install -g @ionic/cli && echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt \ && ls -ls /home/gitpod/.android >> /home/gitpod/rocksetta/logs/mylogs.txt \ &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt          
 
 
 # Give back control

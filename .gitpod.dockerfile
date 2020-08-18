@@ -14,16 +14,8 @@ RUN mkdir -p /home/gitpod/rocksetta                                             
     
 
 
-
-
-
-
-
 # Give back control
 USER root
-
-
-
  ENV ANDROID_SDK_ROOT /home/gitpod/.android
  ENV PATH ${PATH}:${ANDROID_SDK_ROOT}/tools:${ANDROID_SDK_ROOT}/tools/bin:${ANDROID_SDK_ROOT}/platform-tools
 
@@ -39,13 +31,12 @@ RUN wget https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip   
 USER gitpod
 
 # AWS & DigitalOcean CLI tools
-RUN  pip install --user virtualenv 
-    # && brew install doctl # DigitalOcean
-
+# && brew install doctl # DigitalOcean
 # Pre-Install npm CLI's
-RUN npm install -g gatsby-cli && npm install -g @ionic/cli && npx documentation.js \
-    && pip install --user virtualenv \ 
-    # - command: npm install -g @ionic/cli && npm install -g gatsby-cli && npx next -h	    npm install -g t2-cli
+RUN  pip install --user virtualenv \
+    && npm install -g create-react-app  && npm install -g gatsby-cli \
+    && npx documentation.js && npm install -g t2-cli \
+    && npm install -g @ionic/cli \
 
 # Ionic stuff
 RUN  echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt             \

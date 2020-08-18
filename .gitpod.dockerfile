@@ -35,7 +35,8 @@ USER gitpod
 # Pre-Install npm CLI's
 RUN  echo "Here is the android sdk" >> /home/gitpod/rocksetta/logs/mylogs.txt             \
      && ls -ls /home/gitpod/.android >> /home/gitpod/rocksetta/logs/mylogs.txt            \
-     &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt          
+     &&  echo "Installation all done" >> /home/gitpod/rocksetta/logs/mylogs.txt           \
+     && npm install -g create-react-app  && npm install -g gatsby-cli && npx next -h
 
 
 # Give back control
